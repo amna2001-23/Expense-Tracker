@@ -1,5 +1,8 @@
+pip show streamlit
+pip show pandas
 streamlit==1.18.0
 pandas==2.0.2
 sqlite3
 plotly==5.10.0
 xlsxwriter==3.0.3
+sudo apt-get install build-essential libssl-dev libffi-dev python3-dev
