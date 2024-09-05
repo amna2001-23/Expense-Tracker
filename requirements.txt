@@ -2,3 +2,4 @@ streamlit
 pandas
 sqlite3
 plotly
+jinja2
